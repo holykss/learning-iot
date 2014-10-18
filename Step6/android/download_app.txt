@@ -1,0 +1,2 @@
+APP: Bluetooth spp tools pro
+URL: https://play.google.com/store/apps/details?id=mobi.dzs.android.BLE_SPP_PRO&hl=ko
